@@ -1,6 +1,5 @@
 🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐                                                                                                                                                        
 <br>                                                                                                                     
-<iframe src="https://giphy.com/embed/TUkYVl6Rv3FH9j6GKW" width="480" height="206" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tiff-studio-ghibli-spirited-away-hayao-miyazaki-TUkYVl6Rv3FH9j6GKW">via GIPHY</a></p>
 
 
 
