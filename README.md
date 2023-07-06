@@ -1,4 +1,9 @@
-### Hi there 👋
+🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐                                                                                                                                                        
+<br>                                                                                                                            Oi, meu nome é Yasmin, uma autodidata sem freios.                                                                                             <br>                                                                                                      Atualmente, estou iniciando no mundo da programação.
+
+
+
+
 
 <!--
 **yasmincgomes/YasminCGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
