@@ -1,7 +1,7 @@
 🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐                                                                                                                                                        
 <br>                                                                                                                     
-![dracula GitHub stats](https://github-readme-stats.vercel.app/api?username=dracula&theme=dark&show_icons=true)
-
+![dracula_repo](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <!--
 **yasmincgomes/YasminCGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
