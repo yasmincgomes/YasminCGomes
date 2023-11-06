@@ -1,6 +1,6 @@
 🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐🍄🌱💐                                                                                                                                                        
 <br>                                                                                                                     
-![Anurag Hazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Dracula GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 
